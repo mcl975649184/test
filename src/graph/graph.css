@@ -1,0 +1,26 @@
+.layout {
+  width: 1280px;
+  min-height: 100vh;
+  margin: auto;
+}
+
+.search {
+  width: 100%;
+  padding: 30px;
+  border: 1px solid #999999;
+  box-sizing: border-box;
+}
+
+#graph {
+  width: 1200px;
+  height: 400px;
+}
+.graph{
+  position: relative;
+}
+.graph_title{
+  position: absolute;
+  left: 20px;
+  /* top: 10px; */
+}
+
